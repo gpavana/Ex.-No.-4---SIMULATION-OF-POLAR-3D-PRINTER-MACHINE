@@ -1,7 +1,5 @@
 # Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
-
 ### DATE: 
-
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
 
@@ -9,9 +7,7 @@
 
 ## REQUIREMENTS:
 ### ●	System - Windows 7 or higher, 1 GB RAM.
-
 ## PROCEDURE:
-
 ## Assembly of Polar 3D Printer
 ### 1.	Select 'Assembly of Polar 3D Printer' from the visible list.
 ### 2.	All the parts related to Polar 3D Printer will be shown on the screen.
@@ -32,9 +28,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
-
-### Name:
-### Register Number:
-
+![image](https://github.com/gpavana/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118787343/1c61f8e3-c23e-4bd0-aab1-68a75c59dedc)
+### Name:PAVANA.G
+### Register Number:212222230105
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
